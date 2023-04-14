@@ -287,9 +287,9 @@
                         <div class="product-brand">
                           <div class="product-brand-block">
                             <span class="product-brand-name">Thương hiệu:</span>
-                            <a href="#" class="product-brand-link">OEM</a>
+                            <a href="#" class="product-brand-link">ABC</a>
                             <div class="product-brand-deliver"></div>
-                            <a href="#" class="product-brand-suggestion-link">Xem thêm phụ kiện máy tính OEM</a>
+                            <a href="#" class="product-brand-suggestion-link">Xem thêm thời trang ABC</a>
                           </div>
                         </div>
                         <div class="product-price">
@@ -301,7 +301,7 @@
                             </div>
                           </div>
                         </div>
-                        <div class="product-tag">
+                        <!-- <div class="product-tag">
                           <div class="product-promotion">
                             <h6 class="promotion-title">Ưu đãi</h6>
                             <div class="promotion-content">
@@ -314,7 +314,7 @@
                               </div>
                             </div>
                           </div>
-                        </div>
+                        </div> -->
                         <div class="product-quantity">
                           <div class="quantity">
                             <h6 class="quantity-title">Số lượng</h6>
@@ -409,7 +409,7 @@
                         <div class="delivery-location">
                           <div class="location-body">
                             <img src="images/location.png" alt="icon-vitri">
-                            <div class="location-address">Hồ Chí Minh, Quận 1, Phường Phạm Ngũ Lão</div>
+                            <div class="location-address">Hà Nội, Quận Đống Đa, Phường Quang Trung</div>
                             <div class="location-change">
                               <a href="#" class="location-link">THAY ĐỔI</a>
                             </div>
@@ -420,7 +420,7 @@
                             <div class="delivery-option-body">
                               <img src="images/xuly.PNG" alt="">
                               <div class="delivery-option-item">
-                                <div class="delivery-option-item-title">Xử lý đơn hàng bởi Lazada</div>
+                                <div class="delivery-option-item-title">Xử lý đơn hàng bởi ABC Shop</div>
                               </div>
                             </div>
                           </div>
@@ -495,7 +495,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="applzd">
+                  <!-- <div class="applzd">
                     <div class="applzd-guide">
                       <div class="applzd-qrcode">
                         <img src="images/qrcode.PNG" alt="">
@@ -509,9 +509,9 @@
                       <i class="guide-app-mobile"></i>
                       Quét mã QR để tải app
                     </p>
-                  </div>
+                  </div> -->
                   <div class="seller-info">
-                    <div class="seller-container">
+                    <!-- <div class="seller-container">
                       <div class="seller-name">
                         <div class="seller-name-wrapper">
                           <div class="seller-name-title">Được bán bởi</div>
@@ -530,7 +530,7 @@
                             <span>Chat</span>
                           </span>
                         </div>
-                      </div>
+                      </div> -->
                       <div class="seller-info-rate">
                         <div class="seller-info-content">
                           <div class="seller-info-title">Đánh giá tích cực</div>

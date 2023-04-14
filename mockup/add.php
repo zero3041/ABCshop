@@ -47,7 +47,7 @@
                       <a class="header_navbar-link header_navbar-link-active" href="#">TIẾT KIỆM HƠN VỚI ỨNG DỤNG</a>
                     </li>
                     <li class="nav-item header_navbar-item">
-                      <a class="header_navbar-link header_navbar-link-active" href="#">BÁN HÀNG CÙNG LAZADA</a>
+                      <a class="header_navbar-link header_navbar-link-active" href="#">BÁN HÀNG CÙNG ABC</a>
                     </li>
                     <li class="nav-item header_navbar-item">
                       <a class="header_navbar-link" href="#">CHĂM SÓC KHÁCH HÀNG</a>
@@ -108,7 +108,7 @@
             </nav>
           <div class="header_search">
               <div class="header_search-logo">
-                  <a href="./index.php"><img class="header_search-logo-img" src="images/logo.png" alt="logo"/></a>
+                <a style="text-decoration:none; color:black; font-size:10px;" href="./index.php"><img style="width: 50px;height: 50px;" class="header_search-logo-img" src="images/logo.png" alt="logo"/>ABC SHOP</a>
               </div>
               <div class="header_search-action">
                       <input class="search-action_input" placeholder="Tìm kiếm trên lazada" type="text">
@@ -250,7 +250,7 @@
                         />
                     </div>
                 </div> -->
-                <div class="footer-contact">
+                <!-- <div class="footer-contact">
                     <div class="footer-contact_1">
                         <div class="footer-contact_1-1">
                             <span>LIÊN HỆ VỚI LAZADA</span>
@@ -373,7 +373,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="footer-second">
             <div class="grid footer-second-content">
                 <div class="footer-second-1">
@@ -418,7 +418,7 @@
         <div class="footer-third">
             <div class="grid">
                 <div class="footer-third-title">
-                    <div class="footer-third-title-1">
+                    <!-- <div class="footer-third-title-1">
                         <span >Lazada Southeast Asia</span>
                         <a class="footer-third-title-1-link laz-southeast-1" href="#"></a>
                         <a class="footer-third-title-1-link laz-southeast-2" href="#"></a>
@@ -426,7 +426,7 @@
                         <a class="footer-third-title-1-link laz-southeast-4" href="#"></a>
                         <a class="footer-third-title-1-link laz-southeast-5" href="#"></a>
                         <a class="footer-third-title-1-link laz-southeast-6" href="#"></a>
-                    </div>
+                    </div> -->
                     <div class="footer-third-title-2">
                         <span >Kết nối với chúng tôi</span>
                         <a class="footer-third-title-1-link connection-1" href="#"></a>
@@ -436,7 +436,7 @@
                         <a class="footer-third-title-1-link connection-5" href="#"></a>
                         <a class="footer-third-title-1-link connection-6" href="#"></a>
                     </div>
-                    <div class="footer-third-title-2 c-lazada">© Lazada 2020</div>
+                    <div class="footer-third-title-2 c-lazada">© Shop ABC</div>
                 </div>
             </div>
         </div>

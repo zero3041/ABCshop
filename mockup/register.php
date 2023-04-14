@@ -164,7 +164,7 @@
       <div class="container">
           <div class="login">
               <div class="login-title">
-                  <H3>Chào mừng đến với Lazada. Đăng nhập ngay!</H3>
+                  <H3>Chào mừng đến với ABC Shop. Đăng nhập ngay!</H3>
               </div>
               <div class="login-menu">
                   <form action="register_submit.php" method="POST">
@@ -257,7 +257,7 @@
         <div class="footer-third">
             <div class="grid">
                 <div class="footer-third-title">
-                    <div class="footer-third-title-1">
+                    <!-- <div class="footer-third-title-1">
                         <span >Lazada Southeast Asia</span>
                         <a class="footer-third-title-1-link laz-southeast-1" href="#"></a>
                         <a class="footer-third-title-1-link laz-southeast-2" href="#"></a>
@@ -265,7 +265,7 @@
                         <a class="footer-third-title-1-link laz-southeast-4" href="#"></a>
                         <a class="footer-third-title-1-link laz-southeast-5" href="#"></a>
                         <a class="footer-third-title-1-link laz-southeast-6" href="#"></a>
-                    </div>
+                    </div> -->
                     <div class="footer-third-title-2">
                         <span >Kết nối với chúng tôi</span>
                         <a class="footer-third-title-1-link connection-1" href="#"></a>

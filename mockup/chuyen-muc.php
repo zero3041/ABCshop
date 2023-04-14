@@ -192,7 +192,7 @@
 
       <!-- container -->
       <div class="container">
-        <div class="card">
+        <!-- <div class="card">
             <div class="card-main">
                 <a href="#" class="card-detail-first">
                     <img src="<?php echo $cmo['img'] ?>/cm1.webp" alt="" class="card-main-img">
@@ -216,7 +216,7 @@
                     <img src="<?php echo $cmo['img'] ?>/cm7.webp" alt="" class="card-main-img">
                 </a>
             </div>
-        </div>
+        </div> -->
         <div class="content">
             <div class="content-detail">
                 <div class="content-detail-row">
@@ -332,20 +332,20 @@
                                                 <span class="checkbox-brand-name">ShopMail</span>
                                             </label>
                                         </a>
-                                        <a href="#" class="content-main-detail-brand-item">
+                                        <!-- <a href="#" class="content-main-detail-brand-item">
                                             <label for="" class="checkbox-brand">
                                                 <input type="checkbox" value="OEM">
                                                 <span class="checkbox-brand-inner"></span>
                                                 <span class="checkbox-brand-name">ShopQuốcTế</span>
                                             </label>
-                                        </a>
-                                        <a href="#" class="content-main-detail-brand-item">
+                                        </a> -->
+                                        <!-- <a href="#" class="content-main-detail-brand-item">
                                             <label for="" class="checkbox-brand">
                                                 <input type="checkbox" value="OEM">
                                                 <span class="checkbox-brand-inner"></span>
                                                 <span class="checkbox-brand-name">Thanh toán khi nhận hàng</span>
                                             </label>
-                                        </a>
+                                        </a> -->
                                         <a href="#" class="content-main-detail-brand-item">
                                             <label for="" class="checkbox-brand">
                                                 <input type="checkbox" value="OEM">
@@ -356,7 +356,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="content-main">
+                            <!-- <div class="content-main">
                                 <div class="content-main-brand">Địa điểm</div>
                                 <div class="content-main-detail">
                                     <div class="content-main-detail-brand-list">
@@ -377,7 +377,7 @@
                                         
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -436,7 +436,7 @@
         <div class="footer-third">
             <div class="grid">
                 <div class="footer-third-title">
-                    <div class="footer-third-title-1">
+                    <!-- <div class="footer-third-title-1">
                         <span>Lazada Southeast Asia</span>
                         <a class="footer-third-title-1-link laz-southeast-1" href="#"></a>
                         <a class="footer-third-title-1-link laz-southeast-2" href="#"></a>
@@ -444,7 +444,7 @@
                         <a class="footer-third-title-1-link laz-southeast-4" href="#"></a>
                         <a class="footer-third-title-1-link laz-southeast-5" href="#"></a>
                         <a class="footer-third-title-1-link laz-southeast-6" href="#"></a>
-                    </div>
+                    </div> -->
                     <div class="footer-third-title-2">
                         <span>Kết nối với chúng tôi</span>
                         <a class="footer-third-title-1-link connection-1" href="#"></a>

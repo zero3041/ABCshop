@@ -137,8 +137,8 @@
                 <div class="grid container_header">
                     <div class="container_header-menu">
                         <ul class="header-menu_list">
-                        <li class="header-menu_item">
-                            <a href="#" class="header-menu_link">Thời Trang Nữ</a>
+                        <!-- <li class="header-menu_item">
+                            <a href="chuyen-muc.php?id=1" class="header-menu_link">Thời Trang Nữ</a>
                             <i class="fas fa-angle-right"></i>
                             <ul class="header-menu_list-two">
                               <li class="header-menu_item_two">
@@ -147,7 +147,7 @@
                             </ul>
                         </li>
                         <li class="header-menu_item">
-                            <a href="#" class="header-menu_link">Thời Trang Nam</a>
+                            <a href="chuyen-muc.php?id=2" class="header-menu_link">Thời Trang Nam</a>
                             <i class="fas fa-angle-right"></i>
                         </li>
                         <li class="header-menu_item">
@@ -190,7 +190,26 @@
                         <li class="header-menu_item">
                             <a href="#" class="header-menu_link">Quần Áo Thể Thao</a>
                             <i class="fas fa-angle-right"></i>
+                        </li> -->
+
+                        <?php
+                          foreach($list as $items){
+                            // print_r($list).die("ok");
+                            $mid = $items;
+                            // print_r($items).die("ok");
+                            $danhmuc = "SELECT * FROM trangchu where cid={$items["id"]}";
+                            // print_r($danhmuc);
+                            $items = select_one($danhmuc);
+                            // print_r($items).die("ok");
+                        ?>
+                          <li class="header-menu_item">
+                            <a href="chuyen-muc.php?id=<?php echo $items['id'] ?>" class="header-menu_link">
+                              <span><?php echo $mid["name"]?></span> 
+                            </a>
+                            <i class="fas fa-angle-right"></i>
                         </li>
+                        <?php } ?>     
+                          
                         </ul>
                     </div>
                     <div class="container_header-slide">
